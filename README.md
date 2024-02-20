@@ -2,8 +2,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonisAgap&hide_progress=true)
 
 **NOW**
-- 🔭 I'm currently working on an **EVM Debugger** using Python.
-- 🌱 Learning about `BBH certification`, `CPython`, `Python optimization`, `Deep Learning`
+- 🌱 Learning about `BBH certification`, `CPython`, `Python optimization`, `Deep Learning`, `Rust`
 
 **BIO**
 - 🎓 MSc in Computer Engineering
