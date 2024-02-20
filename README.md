@@ -1,7 +1,7 @@
 ![AntonisAgap's GitHub stats](https://github-readme-stats-liart-zeta.vercel.app/api?username=AntonisAgap&show_icons=true&theme=radical)
 
 **NOW**
-- 🔭 Workin on `BBH certification`
+- 🔭 Working on `BBH certification`
 - 🌱 Learning about `CPython`, `Python optimization`, `Deep Learning`, `Rust`
 
 **BIO**
