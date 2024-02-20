@@ -1,4 +1,4 @@
-
+![AntonisAgap's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonisAgap&show_icons=true&theme=radical)
 
 **NOW**
 - 🔭 I'm currently working on an **EVM Debugger** using Python.
