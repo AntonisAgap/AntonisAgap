@@ -1,7 +1,8 @@
 ![AntonisAgap's GitHub stats](https://github-readme-stats-liart-zeta.vercel.app/api?username=AntonisAgap&show_icons=true&theme=radical)
 
 **NOW**
-- 🌱 Learning about `BBH certification`, `CPython`, `Python optimization`, `Deep Learning`, `Rust`
+- 🔭 Workin on `BBH certification`
+- 🌱 Learning about `CPython`, `Python optimization`, `Deep Learning`, `Rust`
 
 **BIO**
 - 🎓 MSc in Computer Engineering
