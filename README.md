@@ -1,4 +1,4 @@
-![AntonisAgap's GitHub stats](https://github-readme-stats-liart-zeta.vercel.app/api?username=AntonisAgap&show_icons=true&theme=radical)
+
 
 **NOW**
 - 🔭 Working on `BBH certification`
