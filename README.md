@@ -1,10 +1,12 @@
+Hey!
 
+**now**
+- 🔭 working on BBH certification
+- 🌱 learning about CPython and Python optimization
+- 🦀 working on learning Rust
 
-**NOW**
-- 🔭 Working on `BBH certification`
-- 🌱 Learning about `CPython`, `Python optimization`, `Deep Learning`, `Rust`
-
-**BIO**
+**bio**
+- 🏢 working @ MongoDB
 - 🎓 MSc in Computer Engineering
-- 📫 Reach me: [linkedin.com/AntonisAgapiou](https://www.linkedin.com/in/antonis-agapiou-7a6b9b145/)
-- ⚙️ Main languages: `python`, `c/c++`, `java`
+- 📫 reach me: [linkedin.com/AntonisAgapiou](https://www.linkedin.com/in/antonis-agapiou-7a6b9b145/)
+- ⚙️ main languages: `python`, `c/c++`, `java`
