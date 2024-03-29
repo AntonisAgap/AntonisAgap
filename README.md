@@ -1,4 +1,3 @@
-Hey!
 
 **now**
 - 🔭 working on BBH certification
