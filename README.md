@@ -1,6 +1,6 @@
 
 **now**
-- 🔭 working on BBH certification
+- 🔭 working on BSCP certification
 - 🌱 learning about CPython and Python optimization
 - 🦀 working on learning Rust
 
